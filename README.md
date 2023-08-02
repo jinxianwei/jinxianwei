@@ -1,4 +1,6 @@
-### Hi there 👋
+<div style="width: 100%;">
+  <img src="hello-animated.svg" style="width: 100%;" alt="Hello everyone">
+</div>
 
 <!--
 **jinxianwei/jinxianwei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,9 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=jinxianwei&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
-### 你好，世界 👋
-- :orange_book: Focusing on DeepLearning
-- :hammer: Creator of applications and frameworks
-- :ram: Founder the ObjCCN
-- :meat_on_bone: Meat lover
+
+![github stats](https://github-readme-stats.vercel.app/api?username=rangeking&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rangeking&langs_count=3&hide=javascript,go,html,css,tex)
+
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giswqs&hide_langs_below=10) -->
